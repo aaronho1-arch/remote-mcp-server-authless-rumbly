@@ -24,5 +24,8 @@
 	},
 	"observability": {
 		"enabled": true
+	},
+	"vars": {
+		"SUPABASE_URL": "https://your-project-ref.supabase.co"
 	}
 }

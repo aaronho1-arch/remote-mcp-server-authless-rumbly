@@ -12,6 +12,7 @@
 		"type-check": "tsc --noEmit"
 	},
 	"dependencies": {
+		"@supabase/supabase-js": "^2.99.0",
 		"agents": "^0.5.0",
 		"zod": "^4.3.6"
 	},
